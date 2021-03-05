@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8538"
-	"mapversion" "4"
+	"mapversion" "5"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "3"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -136,7 +136,7 @@ entity
 		{
 			"id" "30"
 			"plane" "(-384 -128 64) (-320 -128 64) (-320 -192 64)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -147,7 +147,7 @@ entity
 		{
 			"id" "29"
 			"plane" "(-384 -192 0) (-320 -192 0) (-320 -128 0)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -158,7 +158,7 @@ entity
 		{
 			"id" "28"
 			"plane" "(-384 -128 64) (-384 -192 64) (-384 -192 0)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -169,7 +169,7 @@ entity
 		{
 			"id" "27"
 			"plane" "(-320 -128 0) (-320 -192 0) (-320 -192 64)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -180,7 +180,7 @@ entity
 		{
 			"id" "26"
 			"plane" "(-320 -128 64) (-384 -128 64) (-384 -128 0)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -191,7 +191,7 @@ entity
 		{
 			"id" "25"
 			"plane" "(-320 -192 0) (-384 -192 0) (-384 -192 64)"
-			"material" "/METAL2A"
+			"material" "/METAL2T"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

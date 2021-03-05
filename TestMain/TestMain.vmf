@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8538"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "4"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -33,7 +33,7 @@ world
 		{
 			"id" "43"
 			"plane" "(-1536 1088 -64) (512 1088 -64) (512 -1024 -64)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -44,7 +44,7 @@ world
 		{
 			"id" "44"
 			"plane" "(-1536 -1024 -128) (512 -1024 -128) (512 1088 -128)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -55,7 +55,7 @@ world
 		{
 			"id" "45"
 			"plane" "(-1536 1088 -64) (-1536 -1024 -64) (-1536 -1024 -128)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -66,7 +66,7 @@ world
 		{
 			"id" "46"
 			"plane" "(512 1088 -128) (512 -1024 -128) (512 -1024 -64)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77,7 +77,7 @@ world
 		{
 			"id" "47"
 			"plane" "(512 1088 -64) (-1536 1088 -64) (-1536 1088 -128)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -88,7 +88,7 @@ world
 		{
 			"id" "48"
 			"plane" "(512 -1024 -128) (-1536 -1024 -128) (-1536 -1024 -64)"
-			"material" "CONCRETE/CONCRETEFLOOR001A"
+			"material" "CONCRETE/CONCRETEFLOOR039A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
