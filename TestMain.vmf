@@ -1,0 +1,38 @@
+unknown
+{
+	"NextInternalID" "6"
+}
+unknown
+{
+	unknown
+	{
+		"Name" "Main"
+		"File" "TestMain.vmf"
+		"InternalID" "1"
+		"TopLevel" "1"
+	}
+	unknown
+	{
+		"Name" "Test1"
+		"File" "Test1.vmf"
+		"InternalID" "2"
+	}
+	unknown
+	{
+		"Name" "Test2"
+		"File" "Test2.vmf"
+		"InternalID" "3"
+	}
+	unknown
+	{
+		"Name" "Test3"
+		"File" "Test3.vmf"
+		"InternalID" "4"
+	}
+	unknown
+	{
+		"Name" "Test4"
+		"File" "Test4.vmf"
+		"InternalID" "5"
+	}
+}
